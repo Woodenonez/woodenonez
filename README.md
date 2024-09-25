@@ -7,7 +7,7 @@
 More info can be found on my page:
 
 <p align="center">
-<a href="woodenonez.github.io" target="_blank">
+<a href="https://woodenonez.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Ze's page-%23FFFFFF.svg?style=for-the-badge&logo=codementor&logoColor=black" alt=page style="margin-bottom: 5px;"/>
 </a>
 <p/>
