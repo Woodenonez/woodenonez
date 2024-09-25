@@ -4,6 +4,13 @@
 
 ## About me
 [2020-Present] I'm currently a researcher/engineer on mobile robotics and deep learning. Most of my recent programming works are associated with research projects and papers.
+More info can be found on my page:
+
+<p align="center">
+<a href="woodenonez.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Ze's page-%23FFFFFF.svg?style=for-the-badge&logo=codementor&logoColor=black" alt=page style="margin-bottom: 5px;"/>
+</a>
+<p/>
 
 ## Skills
 - **Programming languages**
@@ -20,6 +27,8 @@
     ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=black)
     ![Casadi](https://img.shields.io/badge/Casadi-DC0000?style=for-the-badge)
     ![OpenAI Gym](https://img.shields.io/badge/Gymnasium-00B3E6?style=for-the-badge&logo=openaigym&logoColor=black)
+    ![JAX](https://img.shields.io/badge/Jax-5E97F6?style=for-the-badge&logo=google&logoColor=black)
+  
 
 - **Auxiliaries**
 
@@ -30,19 +39,29 @@
 ## Connect
 
 <a href="mailto:zhze@chalmers.se" target="_blank">
-<img src="https://img.shields.io/badge/Work (Chalmers): Ze Zhang-%2300B3E6.svg?style=for-the-badge&logo=mail.ru&logoColor=white" t=mail style="margin-bottom: 5px;"/>
+<!-- <img src="https://img.shields.io/badge/Work (Chalmers): Ze Zhang-%2300B3E6.svg?style=for-the-badge&logo=mail.ru&logoColor=white" t=mail style="margin-bottom: 5px;"/> -->
+<img src="https://img.shields.io/badge/Work (Chalmers): Ze Zhang-%23FFFFFF.svg?style=for-the-badge&logo=mail.ru&logoColor=black" t=mail style="margin-bottom: 5px;"/>
 </a>
 
 <br>
 
 <a href="https://www.linkedin.com/in/zhze17819/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: Ze Zhang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<!-- <img src="https://img.shields.io/badge/linkedin: Ze Zhang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/> -->
+<img src="https://img.shields.io/badge/linkedin: Ze Zhang-%23FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <br>
 
 <a href="mailto:zhze.zhang@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  ZHZE.ZHANG-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<!-- <img src="https://img.shields.io/badge/gmail:  ZHZE.ZHANG-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" /> -->
+<img src="https://img.shields.io/badge/gmail:  ZHZE.ZHANG-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=black" t=mail style="margin-bottom: 5px;" />
+</a>
+
+<br>
+
+<a href="https://scholar.google.com/citations?user=smzgp_gAAAAJ&hl=en&oi=ao" target="_blank">
+<!-- <img src="https://img.shields.io/badge/Google Scholar: Ze Zhang-%2300acee.svg?color=4285F4&style=for-the-badge&logo=googlescholar&logoColor=white" alt=googlescholar style="margin-bottom: 5px;"/> -->
+<img src="https://img.shields.io/badge/Google Scholar: Ze Zhang-%23FFFFFF.svg?style=for-the-badge&logo=googlescholar&logoColor=black" alt=googlescholar style="margin-bottom: 5px;"/>
 </a>
 
 
