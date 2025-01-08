@@ -12,6 +12,8 @@ More info can be found on my page:
 </a>
 <p/>
 
+**NOTE** All archived projects are (most likely) not going to be updated or maintained anymore unless there are critical errors or theoretical mistakes. In most cases, a new project as the descendant of the archived one will be published before the ancestor is archived. However, you can definitely ask about any projects as long as they are public.
+
 ## Skills
 - **Programming languages**
 
