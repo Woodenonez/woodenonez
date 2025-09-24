@@ -76,6 +76,8 @@ More info can be found on my page:
 
 Credit: [Ze Zhang](https://github.com/Woodenonez) :cn: (![GitHub User's stars](https://img.shields.io/github/stars/Woodenonez?affiliations=OWNER&style=social))
 
+[Read papers](https://github.com/Woodenonez/note-readpaper).
+
 <!-- :seedling: :palm_tree: :fallen_leaf: :snowflake: -->
 Last Edited on: 2025 Summer :palm_tree:
 
