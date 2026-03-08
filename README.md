@@ -63,7 +63,7 @@ More info can be found on my page:
 
 <br>
 
-<a href="https://scholar.google.com/citations?user=smzgp_gAAAAJ&hl=en&oi=ao" target="_blank">
+<a href="https://scholar.google.com/citations?user=zsUc-gkAAAAJ&hl=en&oi=ao" target="_blank">
 <!-- <img src="https://img.shields.io/badge/Google Scholar: Ze Zhang-%2300acee.svg?color=4285F4&style=for-the-badge&logo=googlescholar&logoColor=white" alt=googlescholar style="margin-bottom: 5px;"/> -->
 <img src="https://img.shields.io/badge/Google Scholar: Ze Zhang-%23FFFFFF.svg?style=for-the-badge&logo=googlescholar&logoColor=black" alt=googlescholar style="margin-bottom: 5px;"/>
 </a>
