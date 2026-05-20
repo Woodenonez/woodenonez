@@ -3,8 +3,9 @@
 :octocat: Hi, developers and travelers.
 
 ## About me
-- [2025-Present] I'm currently working on foundation models for robotics and cloud robotics.
-- [2020-2025] A researcher/engineer on mobile robotics and deep learning. Most of my recent programming works are associated with research projects and papers.
+- [2026-    ] Work on VLAs as an engineer.
+- [2025-2026] Work on a research project about foundation models for robotics and cloud robotics.
+- [2020-2025] A researcher/engineer on mobile robotics and deep learning. Most of my recent programming work is associated with research projects and papers.
 More info can be found on my page:
 
 <p align="center">
@@ -76,9 +77,9 @@ More info can be found on my page:
 
 Credit: [Ze Zhang](https://github.com/Woodenonez) :cn: (![GitHub User's stars](https://img.shields.io/github/stars/Woodenonez?affiliations=OWNER&style=social))
 
-[Read papers](https://woodenonez.github.io/note-readpaper/)
+[Read papers](https://woodenonez.github.io/note-readpaper/) | [Slip](https://woodenonez.github.io/slip/)
 
 <!-- :seedling: :palm_tree: :fallen_leaf: :snowflake: -->
-Last Edited on: 2025 Summer :palm_tree:
+Last Edited on: 2026 Summer :palm_tree:
 
 Resources: [Shilds](https://shields.io/badges), [SimpleIcons](https://simpleicons.org/), [AwesomeReadMe](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/)
