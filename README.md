@@ -77,9 +77,8 @@ More info can be found on my page:
 
 Credit: [Ze Zhang](https://github.com/Woodenonez) :cn: (![GitHub User's stars](https://img.shields.io/github/stars/Woodenonez?affiliations=OWNER&style=social))
 
-[Read papers](https://woodenonez.github.io/note-readpaper/) | [Slip](https://woodenonez.github.io/slip/)
 
 <!-- :seedling: :palm_tree: :fallen_leaf: :snowflake: -->
-Last Edited on: 2026 Summer :palm_tree:
+Last Edited on: 2026 Fall :fallen_leaf:
 
 Resources: [Shilds](https://shields.io/badges), [SimpleIcons](https://simpleicons.org/), [AwesomeReadMe](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/)
